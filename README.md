@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on: Data Science and Software Engineering projects<br>👯 I'm looking to collaborate on: development and data science / AI / machine learning projects<br>💬 I'm looking for help with: opportunities in Data Science, AI, and Software Engineering roles <br>🌱 I'm currently learning: deepening my skills in machine learning and full-stack development<br>💬 Ask me about: Python, Java, C#, PHP, REST APIs, databases (MySQL, PostgreSQL, Oracle, SQL Server), or building ML models<br>⚡ Fun fact: I'm trilingual (Arabic, French, English) and hold a degree in Software Engineering and Information Systems (Génie Logiciel et Systèmes d'Information)
+#  About Me:
+🔭 I'm currently working on: Data Science and Software Engineering projects<br> I'm looking to collaborate on: development and data science / AI / machine learning projects<br>💬 I'm looking for help with: opportunities in Data Science, AI, and Software Engineering roles <br>🌱 I'm currently learning: deepening my skills in machine learning and full-stack development<br>💬 Ask me about: Python, Java, C#, PHP, REST APIs, databases (MySQL, PostgreSQL, Oracle, SQL Server), or building ML models<br>⚡ Fun fact: I'm trilingual (Arabic, French, English) and hold a degree in Software Engineering and Information Systems (Génie Logiciel et Systèmes d'Information)
 
 
 ## 🌐 Socials:
